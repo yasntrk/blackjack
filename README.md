@@ -1,8 +1,6 @@
 # blackjack
 BlackJack with Tkinter 
 
-Card images : https://github.com/SSC-SDE/Blackjack/tree/main/cards
-
 requirements:
 
 os
