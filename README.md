@@ -3,15 +3,9 @@ BlackJack with Tkinter
 
 requirements:
 
-os
-
+```
 Tkinter
-
-PIL
-
-random
-
-time
+```
 
 Change This Line
 os.chdir('C:/Users/yasin/PycharmProjects/blackjack/cards') #Change This Line 
