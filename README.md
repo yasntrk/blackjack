@@ -10,9 +10,10 @@ random
 time
 ```
 to run the code
-'''
+
+```
 os.chdir('C:/Users/yasin/PycharmProjects/blackjack/cards') #Change This Line 
-'''
+```
 
 
 
