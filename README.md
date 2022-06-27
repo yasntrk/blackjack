@@ -6,13 +6,17 @@ Card images : https://github.com/SSC-SDE/Blackjack/tree/main/cards
 requirements:
 
 os
+
 Tkinter
+
 PIL
+
 random
+
 time
 
 Change This Line
-os.chdir('C:/Users/yasin/PycharmProjects/blackjack/cards') #Change This Line <<<<<<<<<<<<<<<<<
+os.chdir('C:/Users/yasin/PycharmProjects/blackjack/cards') #Change This Line 
 
 
 
